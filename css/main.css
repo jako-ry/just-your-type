@@ -2,8 +2,18 @@ html {
   font-family: Roboto, sans-serif;
 }
 
+main {
+  background-color: #2c1622;
+}
+
 h1 {
   font-family: "Abril Fatface", serif;
+}
+
+.grid {
+  background-color: #fff;
+  border-radius: 2em 0;
+  padding: 1em 0;
 }
 
 .abril {
@@ -20,4 +30,8 @@ h1 {
 
 .cyan {
   color: #51bedd;
+}
+
+.dark {
+  color: #2c1622;
 }
